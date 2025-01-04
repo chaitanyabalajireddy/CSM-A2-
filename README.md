@@ -4,36 +4,6 @@
 
 This project focuses on developing and evaluating OpenCLIP and BLIP-based models for enhanced multi-modal image retrieval, particularly using the FashionIQ dataset. The work emphasizes aligning image and text embeddings for tasks like image-caption matching and retrieval.
 
-### Authors
-
-- **K. Chaitanya Balaji Reddy** (SE23MAID007)
-- **M. Batul Abbas** (SE23MAID010)
-- **A. Akhil Sai** (SE23MAID001)
-- **Suman Tiwari** (SE23MAID019)
-- **K. Sumedha Reddy** (SE23MAID018)
-
-### Individual Contributions
-
-- **K. Chaitanya Balaji Reddy**:
-  - Handled dataset preprocessing and documentation.
-  - Designed and fine-tuned the BLIP-based model.
-
-- **M. Batul Abbas**:
-  - Implemented the OpenCLIP-based model.
-  - Developed core model training and evaluation code.
-
-- **A. Akhil Sai**:
-  - Assisted in model evaluation and metrics computation.
-  - Contributed to visualization of results.
-
-- **Suman Tiwari**:
-  - Worked on image-text similarity calculations.
-  - Supported recall and precision evaluations.
-
-- **K. Sumedha Reddy**:
-  - Managed presentation and report preparation.
-  - Collated comparison results and tables.
-
 ### Institution
 
 Ecole Centrale School of Engineering, Mahindra University, Hyderabad (December 2024)
